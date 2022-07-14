@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Dem  o',
+      title: 'Demso',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
